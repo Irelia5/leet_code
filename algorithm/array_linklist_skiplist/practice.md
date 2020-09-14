@@ -1,3 +1,8 @@
+2020/09/14
+复习2020/09/10 算法
+list实战
+[逆置链表](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+
 2020/09/10 
 array实战
 [移动零](https://leetcode-cn.com/problems/move-zeroes/)
