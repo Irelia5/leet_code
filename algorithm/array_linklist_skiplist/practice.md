@@ -1,3 +1,8 @@
+2020/09/16
+[去重](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+[旋转数组](https://leetcode-cn.com/problems/rotate-array/)
+这个坑了好多次了
+
 2020/09/15
 [环形链表](https://leetcode.com/problems/linked-list-cycle)
 [环形链表2](https://leetcode.com/problems/linked-list-cycle-ii)
@@ -8,7 +13,6 @@ list实战
 [两两交换链表中结点](https://leetcode.com/problems/swap-nodes-in-pairs)
 * 迭代
 * 递归
-
 
 2020/09/10 
 array实战
