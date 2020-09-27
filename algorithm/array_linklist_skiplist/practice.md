@@ -1,3 +1,7 @@
+2020/09/27
+学习LRU写法
+[LRU](https://leetcode-cn.com/problems/lru-cache/)
+
 2020/09/18
 [加一](https://leetcode-cn.com/problems/plus-one/)
 [合并有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
