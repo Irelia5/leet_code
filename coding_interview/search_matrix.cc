@@ -1,5 +1,5 @@
 #include <vector>
-
+using std::vector;
 class Solution {
 public:
     bool searchMatrix1(vector<vector<int>>& matrix, int target) {
